@@ -1,0 +1,13 @@
+{
+  "minVoltageToFunction" : 6,
+  "ledCount" : 121,
+  "segment1FirstIndex" : 30,
+  "segment1LastIndex" : 60,
+  "segment2FirstIndex" : 0,
+  "segment2LastIndex" : 30,
+  "segment3FirstIndex" : 60,
+  "segment3LastIndex" : 90,
+  "segment4FirstIndex" : 90,
+  "segment4LastIndex" : 120,
+  "maximumBrightness" : 100
+}

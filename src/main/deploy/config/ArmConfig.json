@@ -1,0 +1,11 @@
+{
+  "armFirstStagePistonExtensionTime": 0.3,
+  "armSecondStageMaxAcceleration": 300.0,
+  "armSecondStageMaxVelocity": 150.0,
+  "armMasterKf" : 0.076,
+  "armMasterKp" : 0.1,
+  "armMasterKi" : 0.0,
+  "armMasterKd" : 0.0,
+  "motionMagicAcceleration" : 40000,
+  "motionMagicVelocity" : 40000
+}

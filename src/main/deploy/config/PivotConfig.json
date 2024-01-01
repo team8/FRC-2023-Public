@@ -1,0 +1,15 @@
+{
+  "targetingGains" : {
+    "p" : 0.00,
+    "i" : 0,
+    "d" : 0.0,
+    "f" : 1.4e-4,
+    "iZone" : 0.0,
+    "iMax" : 0.0,
+    "acceleration" : 4000.0,
+    "velocity" : 3000.0,
+    "allowableError" : 0.01,
+    "minimumOutputVelocity" : 0.0
+  },
+  "arbitraryPercentOutput": 0.0
+}
